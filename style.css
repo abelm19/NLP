@@ -1,0 +1,6 @@
+body {
+    background-image: url('back.jpg'); /* Replace with your image path or URL */
+    background-size: cover; /* Cover the entire viewport */
+    background-repeat: no-repeat; /* Prevent image repetition */
+    background-attachment: fixed; /* Keep the background fixed during scrolling */
+}
